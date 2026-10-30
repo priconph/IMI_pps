@@ -1,0 +1,59 @@
+# Office documents
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# PDFs
+*.pdf
+
+# Database dumps / backups
+*.sql
+*.sql.gz
+*.bak
+*.BAK
+*.dump
+*.sqlite
+*.mdb
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+
+# Large media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.psd
+*.iso
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+*.swp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Dependencies / IDE
+node_modules/
+vendor/
+.idea/
+.vscode/
+
+# Local config with credentials
+.env
